@@ -18,9 +18,9 @@
         <activity
             android:name=".AddNoteActivity"
             android:exported="false" />
-        <activity
-            android:name=".Add_Note"
-            android:exported="false" />
+<!--                <activity-->
+<!--                    android:name=".Add_Note"-->
+<!--                    android:exported="false" />-->
         <activity
             android:name=".MainActivity"
             android:exported="true">
