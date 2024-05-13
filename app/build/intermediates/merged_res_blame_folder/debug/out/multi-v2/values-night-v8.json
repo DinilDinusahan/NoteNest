@@ -4,7 +4,7 @@
             "outputFile": "com.example.notenest.app-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dinil\\OneDrive\\Desktop\\to-do\\NoteNest\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "D:\\github\\NoteNest\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

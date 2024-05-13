@@ -2971,6 +2971,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable add_folder_svgrepo_com
+drawable add_note_svgrepo_com
 drawable avd_hide_password
 drawable avd_show_password
 drawable baseline_add_24
@@ -2986,11 +2988,14 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable delete_svgrepo_com
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edit_clipboard_svgrepo_com
+drawable file_done_svgrepo_com
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
