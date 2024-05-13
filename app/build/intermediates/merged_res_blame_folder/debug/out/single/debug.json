@@ -20,12 +20,16 @@
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xxxhdpi\\logonote_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\layout_activity_lunch_screen.xml.flat",
+        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\activity_lunch_screen.xml"
     },
     {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\drawable_add_note_svgrepo_com.xml.flat",
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\drawable\\add_note_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xxhdpi_logonote.webp.flat",
@@ -48,12 +52,12 @@
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xxhdpi\\notelogo_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xhdpi_logo_foreground.webp.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xhdpi\\logo_foreground.webp"
-    },
-    {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xxxhdpi_logo_round.webp.flat",
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xxxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xhdpi\\logo_foreground.webp"
     },
     {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-hdpi_logo.webp.flat",
@@ -118,6 +122,10 @@
     {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-mdpi_logonot_round.webp.flat",
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-mdpi\\logonot_round.webp"
+    },
+    {
+        "merged": "com.example.notenest.app-merged_res-31:/layout_activity_lunch_screeen.xml.flat",
+        "source": "com.example.notenest.app-main-33:/layout/activity_lunch_screeen.xml"
     },
     {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-anydpi-v26_logonot.xml.flat",
@@ -236,14 +244,6 @@
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\activity_add_note.xml"
     },
     {
-        "merged": "com.example.notenest.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.example.notenest.app-main-33:/layout/activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\drawable_baseline_edit_24.xml.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\drawable\\baseline_edit_24.xml"
-    },
-    {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-mdpi_logo_foreground.webp.flat",
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-mdpi\\logo_foreground.webp"
     },
@@ -324,20 +324,16 @@
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xhdpi\\logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\drawable_edit_clipboard_svgrepo_com.xml.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\drawable\\edit_clipboard_svgrepo_com.xml"
-    },
-    {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-hdpi_logonot_round.webp.flat",
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-hdpi\\logonot_round.webp"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xxhdpi_logonot.webp.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xxhdpi\\logonot.webp"
+        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\drawable_edit_clipboard_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\drawable\\edit_clipboard_svgrepo_com.xml"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\drawable_baseline_done_24.xml.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\drawable\\baseline_done_24.xml"
+        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xxhdpi_logonot.webp.flat",
+        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xxhdpi\\logonot.webp"
     },
     {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xhdpi_notelogo_foreground.webp.flat",
@@ -372,10 +368,6 @@
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-mdpi\\logo_round.webp"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\layout_activity_add_note2.xml.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\activity_add_note2.xml"
-    },
-    {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-anydpi-v26_logonote_round.xml.flat",
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-anydpi-v26\\logonote_round.xml"
     },
@@ -402,9 +394,5 @@
     {
         "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\mipmap-xxhdpi_notelogo.webp.flat",
         "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\mipmap-xxhdpi\\notelogo.webp"
-    },
-    {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-merged_res-31:\\drawable_baseline_auto_delete_24.xml.flat",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\drawable\\baseline_auto_delete_24.xml"
     }
 ]

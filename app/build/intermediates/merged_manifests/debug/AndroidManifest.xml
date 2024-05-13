@@ -28,12 +28,22 @@
         android:testOnly="true"
         android:theme="@style/Theme.NotesApp" >
         <activity
+            android:name="com.example.notenest.lunch_screeen"
+            android:exported="false" />
+        <!-- <activity -->
+        <!-- android:name=".lunch_screen" -->
+        <!-- android:exported="true"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <activity
             android:name="com.example.notenest.UpdateNoteActivity"
             android:exported="false" />
         <activity
             android:name="com.example.notenest.AddNoteActivity"
-            android:exported="false" />
-        <!-- <activity -->
+            android:exported="false" /> <!-- <activity -->
         <!-- android:name=".Add_Note" -->
         <!-- android:exported="false" /> -->
         <activity

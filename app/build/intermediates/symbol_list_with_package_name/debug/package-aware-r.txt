@@ -2976,9 +2976,6 @@ drawable add_note_svgrepo_com
 drawable avd_hide_password
 drawable avd_show_password
 drawable baseline_add_24
-drawable baseline_auto_delete_24
-drawable baseline_done_24
-drawable baseline_edit_24
 drawable blue_border
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -3344,6 +3341,7 @@ id linear
 id listMode
 id list_item
 id m3_side_sheet
+id main
 id marquee
 id masked
 id match_constraint
@@ -3723,7 +3721,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_add_note
-layout activity_add_note2
+layout activity_lunch_screeen
 layout activity_main
 layout activity_update_note
 layout custom_dialog

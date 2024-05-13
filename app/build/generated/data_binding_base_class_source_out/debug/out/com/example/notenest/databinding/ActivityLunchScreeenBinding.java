@@ -12,12 +12,17 @@ import com.example.notenest.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
 
-public final class ActivityAddNote2Binding implements ViewBinding {
+public final class ActivityLunchScreeenBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
-  private ActivityAddNote2Binding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final ConstraintLayout main;
+
+  private ActivityLunchScreeenBinding(@NonNull ConstraintLayout rootView,
+      @NonNull ConstraintLayout main) {
     this.rootView = rootView;
+    this.main = main;
   }
 
   @Override
@@ -27,14 +32,14 @@ public final class ActivityAddNote2Binding implements ViewBinding {
   }
 
   @NonNull
-  public static ActivityAddNote2Binding inflate(@NonNull LayoutInflater inflater) {
+  public static ActivityLunchScreeenBinding inflate(@NonNull LayoutInflater inflater) {
     return inflate(inflater, null, false);
   }
 
   @NonNull
-  public static ActivityAddNote2Binding inflate(@NonNull LayoutInflater inflater,
+  public static ActivityLunchScreeenBinding inflate(@NonNull LayoutInflater inflater,
       @Nullable ViewGroup parent, boolean attachToParent) {
-    View root = inflater.inflate(R.layout.activity_add_note2, parent, false);
+    View root = inflater.inflate(R.layout.activity_lunch_screeen, parent, false);
     if (attachToParent) {
       parent.addView(root);
     }
@@ -42,11 +47,13 @@ public final class ActivityAddNote2Binding implements ViewBinding {
   }
 
   @NonNull
-  public static ActivityAddNote2Binding bind(@NonNull View rootView) {
+  public static ActivityLunchScreeenBinding bind(@NonNull View rootView) {
     if (rootView == null) {
       throw new NullPointerException("rootView");
     }
 
-    return new ActivityAddNote2Binding((ConstraintLayout) rootView);
+    ConstraintLayout main = (ConstraintLayout) rootView;
+
+    return new ActivityLunchScreeenBinding((ConstraintLayout) rootView, main);
   }
 }
