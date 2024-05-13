@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.notesapp-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.notenest.app-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\github\\NoteNest\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\dinil\\OneDrive\\Desktop\\to-do\\NoteNest\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

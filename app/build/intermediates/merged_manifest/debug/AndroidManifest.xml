@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.notesapp"
+    package="com.example.notenest"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -9,10 +9,10 @@
         android:targetSdkVersion="34" />
 
     <permission
-        android:name="com.example.notesapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.example.notenest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.notesapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.example.notenest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -28,16 +28,16 @@
         android:testOnly="true"
         android:theme="@style/Theme.NotesApp" >
         <activity
-            android:name="com.example.notesapp.UpdateNoteActivity"
+            android:name="com.example.notenest.UpdateNoteActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.notesapp.AddNoteActivity"
+            android:name="com.example.notenest.AddNoteActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.notesapp.Add_Note"
+            android:name="com.example.notenest.Add_Note"
             android:exported="false" />
         <activity
-            android:name="com.example.notesapp.MainActivity"
+            android:name="com.example.notenest.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -48,7 +48,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.notesapp.androidx-startup"
+            android:authorities="com.example.notenest.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

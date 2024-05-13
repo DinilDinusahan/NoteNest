@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.notesapp-mergeDebugResources-29:/values/values.xml",
+            "outputFile": "com.example.notenest.app-mergeDebugResources-29:/values/values.xml",
             "map": [
-                {
-                    "source": "D:\\github\\NoteNest\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,11",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,438",
-                        "endLines": "9,11",
-                        "endColumns": "12,64",
-                        "endOffsets": "432,498"
-                    },
-                    "to": {
-                        "startLines": "2546,6524",
-                        "startColumns": "4,4",
-                        "startOffsets": "179088,457989",
-                        "endLines": "2553,6524",
-                        "endColumns": "12,63",
-                        "endOffsets": "179379,458048"
-                    }
-                },
                 {
                     "source": "C:\\Users\\dinil\\.gradle\\caches\\transforms-3\\42a1e2014bbd5a500b14ad34f2db2171\\transformed\\transition-1.2.0\\res\\values\\values.xml",
                     "from": {
@@ -171,6 +152,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\dinil\\OneDrive\\Desktop\\to-do\\NoteNest\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "1971",
+                        "startColumns": "4",
+                        "startOffsets": "130508",
+                        "endColumns": "46",
+                        "endOffsets": "130550"
+                    }
+                },
+                {
                     "source": "C:\\Users\\dinil\\.gradle\\caches\\transforms-3\\f880cc1c3e36c0c4b347845a9fccfd59\\transformed\\appcompat-resources-1.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -190,20 +188,20 @@
                     }
                 },
                 {
-                    "source": "D:\\github\\NoteNest\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\dinil\\OneDrive\\Desktop\\to-do\\NoteNest\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "46",
-                        "endOffsets": "58"
+                        "startLines": "2,4,6,5,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,139,223,178,97",
+                        "endColumns": "41,38,43,44,41",
+                        "endOffsets": "92,173,262,218,134"
                     },
                     "to": {
-                        "startLines": "1971",
-                        "startColumns": "4",
-                        "startOffsets": "130508",
-                        "endColumns": "46",
-                        "endOffsets": "130550"
+                        "startLines": "640,641,656,702,962",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "32798,32840,33900,37048,56602",
+                        "endColumns": "41,38,43,44,41",
+                        "endOffsets": "32835,32874,33939,37088,56639"
                     }
                 },
                 {
@@ -334,23 +332,6 @@
                     }
                 },
                 {
-                    "source": "D:\\github\\NoteNest\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,4,6,5,3",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,139,223,178,97",
-                        "endColumns": "41,38,43,44,41",
-                        "endOffsets": "92,173,262,218,134"
-                    },
-                    "to": {
-                        "startLines": "640,641,656,702,962",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "32798,32840,33900,37048,56602",
-                        "endColumns": "41,38,43,44,41",
-                        "endOffsets": "32835,32874,33939,37088,56639"
-                    }
-                },
-                {
                     "source": "C:\\Users\\dinil\\.gradle\\caches\\transforms-3\\89fae5491a72a7179849c8af2f6df89e\\transformed\\lifecycle-runtime-2.6.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -365,6 +346,25 @@
                         "startOffsets": "123452",
                         "endColumns": "42",
                         "endOffsets": "123490"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dinil\\OneDrive\\Desktop\\to-do\\NoteNest\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,438",
+                        "endLines": "9,11",
+                        "endColumns": "12,64",
+                        "endOffsets": "432,498"
+                    },
+                    "to": {
+                        "startLines": "2546,6524",
+                        "startColumns": "4,4",
+                        "startOffsets": "179088,457989",
+                        "endLines": "2553,6524",
+                        "endColumns": "12,63",
+                        "endOffsets": "179379,458048"
                     }
                 }
             ]

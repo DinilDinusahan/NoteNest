@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Notes app"
+rootProject.name = "Note nest"
 include(":app")
  
