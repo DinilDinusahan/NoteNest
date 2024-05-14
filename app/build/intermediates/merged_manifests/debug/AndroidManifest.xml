@@ -27,9 +27,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.NotesApp" >
-        <activity
-            android:name="com.example.notenest.lunch_screeen"
-            android:exported="false" />
+
+        <!-- <activity -->
+        <!-- android:name=".lunch_screeen" -->
+        <!-- android:exported="false" /> -->
         <!-- <activity -->
         <!-- android:name=".lunch_screen" -->
         <!-- android:exported="true"> -->

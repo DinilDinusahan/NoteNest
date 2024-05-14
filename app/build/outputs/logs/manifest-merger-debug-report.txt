@@ -97,12 +97,6 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\di
 		ADDED from D:\github\NoteNest\app\src\main\AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
 		ADDED from D:\github\NoteNest\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.notenest.lunch_screeen
-ADDED from D:\github\NoteNest\app\src\main\AndroidManifest.xml:15:9-17:40
-	android:exported
-		ADDED from D:\github\NoteNest\app\src\main\AndroidManifest.xml:17:13-37
-	android:name
-		ADDED from D:\github\NoteNest\app\src\main\AndroidManifest.xml:16:13-42
 activity#com.example.notenest.UpdateNoteActivity
 ADDED from D:\github\NoteNest\app\src\main\AndroidManifest.xml:26:9-28:40
 	android:exported

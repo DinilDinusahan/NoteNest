@@ -1,26 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-mergeDebugResources-30:\\layout\\activity_lunch_screen.xml",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\activity_lunch_screen.xml"
+        "merged": "com.example.notenest.app-mergeDebugResources-30:/layout/activity_add_note.xml",
+        "source": "com.example.notenest.app-main-33:/layout/activity_add_note.xml"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-mergeDebugResources-30:\\layout\\activity_update_note.xml",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\activity_update_note.xml"
+        "merged": "com.example.notenest.app-mergeDebugResources-30:/layout/note_item.xml",
+        "source": "com.example.notenest.app-main-33:/layout/note_item.xml"
     },
     {
         "merged": "com.example.notenest.app-mergeDebugResources-30:/layout/activity_lunch_screeen.xml",
         "source": "com.example.notenest.app-main-33:/layout/activity_lunch_screeen.xml"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-mergeDebugResources-30:\\layout\\note_item.xml",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\note_item.xml"
+        "merged": "com.example.notenest.app-mergeDebugResources-30:/layout/activity_update_note.xml",
+        "source": "com.example.notenest.app-main-33:/layout/activity_update_note.xml"
     },
     {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-mergeDebugResources-30:\\layout\\activity_add_note.xml",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\activity_add_note.xml"
-    },
-    {
-        "merged": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-mergeDebugResources-30:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\dinil\\.gradle\\daemon\\8.2\\com.example.notenest.app-main-33:\\layout\\activity_main.xml"
+        "merged": "com.example.notenest.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.notenest.app-main-33:/layout/activity_main.xml"
     }
 ]
