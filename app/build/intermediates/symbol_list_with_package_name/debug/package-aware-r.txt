@@ -3318,6 +3318,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id imageView2
 id imageView3
 id immediateStop
@@ -3721,7 +3722,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_add_note
-layout activity_lunch_screeen
+layout activity_lunch_screen
 layout activity_main
 layout activity_update_note
 layout custom_dialog

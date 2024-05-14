@@ -12,7 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NotesApp"
         tools:targetApi="31">
-
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
         <activity
             android:name=".UpdateNoteActivity"
             android:exported="false" />
@@ -20,7 +22,7 @@
             android:name=".AddNoteActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".lunchScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

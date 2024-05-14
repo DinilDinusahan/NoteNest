@@ -24,6 +24,7 @@ id contentTextView
 id deleteButton
 id editNoteHeading
 id frameLayout
+id imageView
 id imageView2
 id imageView3
 id main
@@ -37,7 +38,7 @@ id updateSaveButton
 id updateTitleEditText
 id updatecontentEditText
 layout activity_add_note
-layout activity_lunch_screeen
+layout activity_lunch_screen
 layout activity_main
 layout activity_update_note
 layout note_item
