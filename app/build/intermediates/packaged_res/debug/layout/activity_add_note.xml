@@ -6,18 +6,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/background"
     tools:context=".AddNoteActivity">
 
     <TextView
         android:id="@+id/addNoteHeading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/poppins"
         android:text="Add Note"
-        android:textColor="@color/blue"
-        android:textSize="24sp" />
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/saveButton"
@@ -27,18 +31,20 @@
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="6dp"
         android:src="@drawable/file_done_svgrepo_com" />
+
     <EditText
         android:id="@+id/titleEditText"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:hint="Enter the title"
-        android:padding="12dp"
-        android:textSize="20sp"
         android:layout_below="@id/addNoteHeading"
-        android:background="@drawable/blue_border"
         android:layout_marginTop="16dp"
+        android:background="@drawable/blue_border"
+        android:fontFamily="@font/poppins"
+        android:hint="Enter the title"
         android:maxLines="1"
-        android:fontFamily="@font/poppins"/>
+        android:padding="12dp"
+        android:textColorHint="#E6E2E2"
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/contentEditText"
@@ -51,6 +57,7 @@
         android:gravity="top"
         android:hint="Enter the description"
         android:padding="12dp"
+        android:textColorHint="#E6E2E2"
         android:textSize="18sp" />
 
     <ImageView

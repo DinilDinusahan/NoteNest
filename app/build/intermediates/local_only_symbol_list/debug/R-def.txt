@@ -7,7 +7,7 @@ color light_blue
 color white
 drawable add_folder_svgrepo_com
 drawable add_note_svgrepo_com
-drawable baseline_add_24
+drawable background
 drawable blue_border
 drawable delete_svgrepo_com
 drawable edit_clipboard_svgrepo_com
